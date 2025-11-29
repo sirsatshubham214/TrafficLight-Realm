@@ -23,6 +23,10 @@ To simulate a modular traffic light controller using subsystems and a multiport 
 - `TrafficLightSystem.slx` — Simulink model file.
 - `/images/model_diagram.png`
 - 
+## Model Screenshot
+
+![Traffic Light Simulink Model](model_diagram.png)
+
 
 ## Author
-Shubham Sirsat — submitted for MATLAB Simulink Student Challenge 2025.
+Shubham Sirsat 
